@@ -1,0 +1,111 @@
+/* General Body Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f7f6; /* Light gray background */
+    color: #333;
+}
+
+/* Navbar Container */
+.navbar {
+    background-color: #ffffff; /* White background for navbar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem 0;
+}
+
+.navbar-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; /* Padding on sides */
+}
+
+/* Navbar Brand/Logo */
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #007bff; /* Blue color for brand */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.navbar-brand:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+/* Navbar Menu */
+.navbar-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 25px; /* Space between menu items */
+}
+
+/* Navbar Items */
+.navbar-item {
+    position: relative;
+}
+
+/* Navbar Links */
+.navbar-link {
+    text-decoration: none;
+    color: #555; /* Darker gray for links */
+    font-weight: 500;
+    font-size: 1.05rem;
+    padding: 5px 0;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.navbar-link:hover {
+    color: #007bff; /* Blue on hover */
+    border-bottom: 2px solid #007bff; /* Underline effect on hover */
+}
+
+/* Specific styling for Login and Sign Up links if desired */
+.navbar-item:last-of-type .navbar-link,
+.navbar-item:nth-last-of-type(2) .navbar-link {
+    color: #007bff; /* Make Login/Sign Up stand out a bit */
+    border: 1px solid #007bff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-item:last-of-type .navbar-link:hover,
+.navbar-item:nth-last-of-type(2) .navbar-link:hover {
+    background-color: #007bff;
+    color: #ffffff;
+    border-color: #007bff;
+}
+
+/* Responsive adjustments (optional, but good practice) */
+@media (max-width: 768px) {
+    .navbar-menu {
+        flex-direction: column;
+        position: absolute;
+        top: 60px; /* Adjust based on navbar height */
+        left: 0;
+        width: 100%;
+        background-color: #ffffff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        display: none; /* Hidden by default for mobile */
+        padding: 20px;
+        z-index: 1000;
+    }
+
+    .navbar-menu.active {
+        display: flex; /* Show when active */
+    }
+
+    .navbar-item {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    /* You would typically add a hamburger icon/button to toggle the menu for mobile */
+}
