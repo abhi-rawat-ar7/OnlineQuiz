@@ -1,0 +1,9 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Inter font globally */
+body {
+  font-family: 'Inter', sans-serif;
+}
