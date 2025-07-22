@@ -1,6 +1,7 @@
 # OnlineQuiz
 Question Creation, Timed Quizzes, Scoring System, Analytics
-Technologies used :-
+
+# Technologies used :-
 Frontend : React.js with Tailwind CSS for a modern, responsive user interface, i.e., for styling.
 Backend & Database : Firebase Firestore for storing quizzes, questions, authentication, and user performance data.
 Authentication : Firebase Authentication to manage user sessions (anonymous login will be set up initially).
