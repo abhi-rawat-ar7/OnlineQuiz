@@ -1,11 +1,16 @@
 # OnlineQuiz
 Question Creation, Timed Quizzes, Scoring System, Analytics
 # Technologies used :-
-## Frontend : React.js with Tailwind CSS for a modern, responsive user interface, i.e., for styling.
-## Backend & Database : Firebase Firestore for storing quizzes, questions, authentication, and user performance data.
-## Authentication : Firebase Authentication to manage user sessions (anonymous login will be set up initially).
-## AI Integration : Gemini API to assist in generating quiz questions from user-provided text.
-## Icons: Lucide React
+## Frontend : 
+React.js with Tailwind CSS for a modern, responsive user interface, i.e., for styling.
+## Backend & Database : 
+Firebase Firestore for storing quizzes, questions, authentication, and user performance data.
+## Authentication : 
+Firebase Authentication to manage user sessions (anonymous login will be set up initially).
+## AI Integration : 
+Gemini API to assist in generating quiz questions from user-provided text.
+## Icons: 
+Lucide React
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
