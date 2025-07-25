@@ -1,4 +1,4 @@
-# OnlineQuiz
+# Pod.ai 2.0
 Question Creation, Timed Quizzes, Scoring System, Analytics. \
 It is clone of Pod.ai which is primarily focused on campus recruitment, assessment, and data management for educational institutions and employers. \
 It helps with question creation, particularly for assessment tests. It mentions that their team of experts can create customized assessment tests and that they can help companies create their own question banks.
