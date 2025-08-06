@@ -1,4 +1,4 @@
-# Name of the website :- Pod.ai 2.0
+# Name of my website :- Pod.ai 2.0
 # Clone of Pod.ai website
 ## Unique features of this website :-
 Question Creation, Timed Quizzes, Scoring System, Analytics. \
