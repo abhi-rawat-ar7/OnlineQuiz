@@ -1,5 +1,5 @@
 # Name of my website :- Pod.ai 2.0
-# Clone of Pod.ai website
+# It's a clone of Pod.ai website
 ## Unique features of this website :-
 Question Creation, Timed Quizzes, Scoring System, Analytics. \
 It is clone of Pod.ai which is primarily focused on campus recruitment, assessment, and data management for educational institutions and employers. \
