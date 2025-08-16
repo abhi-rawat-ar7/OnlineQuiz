@@ -15,7 +15,7 @@ Firebase Authentication to manage user sessions (anonymous login will be set up 
 Gemini API to assist in generating quiz questions from user-provided text.
 ## Icons: 
 Lucide React
-# Getting Started with Create React App
+# Getting Started with Create React App :-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
 In the project directory, you can run:
