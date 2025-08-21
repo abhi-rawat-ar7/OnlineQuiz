@@ -13,7 +13,7 @@ Firebase Firestore for storing quizzes, questions, authentication, and user perf
 Firebase Authentication to manage user sessions (anonymous login will be set up initially).
 ## AI Integration : 
 Gemini API to assist in generating quiz questions from user-provided text.
-## Icons: 
+## Icons :- 
 Lucide React
 # Getting Started with Create React App :-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
