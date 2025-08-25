@@ -9,7 +9,7 @@ It helps with question creation, particularly for assessment tests. It mentions 
 React.js with Tailwind CSS for a modern, responsive user interface, i.e., for styling.
 ## Backend and Database : 
 Firebase Firestore for storing quizzes, questions, authentication, and user performance data.
-## Authentication : 
+## Authentication :-
 Firebase Authentication to manage user sessions (anonymous login will be set up initially).
 ## AI Integration : 
 Gemini API to assist in generating quiz questions from user-provided text.
