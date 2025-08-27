@@ -5,7 +5,7 @@ Question Creation, Timed Quizzes, Scoring System, Analytics. \
 It is clone of Pod.ai which is primarily focused on campus recruitment, assessment, and data management for educational institutions and employers. \
 It helps with question creation, particularly for assessment tests. It mentions that their team of experts can create customized assessment tests and that they can help companies create their own question banks.
 # The technologies which are used :-
-## Frontend : 
+## Frontend :- 
 React.js with Tailwind CSS for a modern, responsive user interface, i.e., for styling.
 ## Backend and Database : 
 Firebase Firestore for storing quizzes, questions, authentication, and user performance data.
